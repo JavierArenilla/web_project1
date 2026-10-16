@@ -1,0 +1,6 @@
+#Archivos que no debe versionar
+README.md
+
+#Archivos temporales del sistema y del editor
+.DS_Store
+.vscode/
