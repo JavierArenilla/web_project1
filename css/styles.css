@@ -4,3 +4,23 @@ body {
     color: #333333;
     font-size: 18px;
 }
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	color:green;
+}
+
+ul{
+	background color: white;
+	padding: 20px;
+}
+
+.tareas {
+    background: white;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
